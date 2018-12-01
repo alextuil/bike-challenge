@@ -10,3 +10,5 @@ You will deal with:
 - Linear Kernel
 - Gaussian RDB Kernel
 - Random Forest
+
+This is my final work. To run this file you will need: Python 3 installed with Pandas, Numpy, Scikit-learn, Patsy and MatplotLib.
